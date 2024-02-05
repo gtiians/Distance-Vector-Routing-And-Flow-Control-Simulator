@@ -1,6 +1,6 @@
 # Distance-Vector-Routing-and-Flow-Control-Simulator
 
-The project simulates a network traffic in a given topology where the distance vector algorithm is used for path computations and routing. The topology of the network is given and cannot be changed by the user. User can change the path costs between each router, and specify any number of flows from any router to the other. Package size also can be changed. After the user specifies, the program can run the network traffic.  
+The project simulates a network traffic in a given topology where the distance vector algorithm is used for path computations and routing. The topology of the network is given and cannot be changed by the user. User can change the path costs between each router, and specify any number of flows from any router to the other. Package size also can be changed. After the user specifies, the program can run the network traffic.
 
 The program basically consists of two major parts: 
 - Distance Vector Computation
