@@ -17,6 +17,8 @@ The program basically consists of two major parts:
 * The program simulates network traffic, considering factors like visited routers, queues, delays, etc., at each step of package transmission.
 
 
+
+
 Used skills:
 * Socket Programming: Used for communication between routers, facilitating the exchange of information.
 * Multi-Threading: Implemented to enhance program efficiency and handle concurrent tasks.
